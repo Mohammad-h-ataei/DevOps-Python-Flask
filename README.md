@@ -72,5 +72,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For questions, please reach out at mohammad.h.ataei@gmail.com or open an issue.
-
+For questions, please reach out at [YourEmail@example.com] or open an issue.
