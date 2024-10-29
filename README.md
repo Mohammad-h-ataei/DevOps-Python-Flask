@@ -31,7 +31,7 @@ Before starting, make sure you have the following installed:
 ```bash
 git clone https://github.com/Mohammad-h-ataei/DevOps-Python-Flask.git
 cd DevOps-Python-Flask
-2. Set Up a Virtual Environment
+### 2. Set Up a Virtual Environment
 bash
 Copy code
 python3 -m venv venv
